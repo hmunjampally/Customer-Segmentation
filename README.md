@@ -59,7 +59,7 @@ Data collected from 3 sources:
 
 ## 📸 Dashboard Preview
 
-(retail_customers.png)
+![Dashboard Preview](retail_customers.png)
 
 ---
 
