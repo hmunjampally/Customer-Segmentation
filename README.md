@@ -59,7 +59,7 @@ Data collected from 3 sources:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](retail customers.png)
+![Dashboard Preview](D:\Data Analysis\4. Mall Data Analysis\Customer-Segmentation\retail customers.png)
 
 ---
 
