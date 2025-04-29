@@ -70,6 +70,18 @@ Data collected from 3 sources:
 
 ---
 
+## 🗂️ Dataset
+- **Source**: Publicly available mall customer transaction dataset (~99,266 rows)
+- **Files included**:
+   - `original_dataset.csv`: Raw data used for this project
+   - `pivot_tables.xlsx`: Excel-based feature analysis
+   - `customer_sales_summary.csv`: Cleaned + SQL-transformed dataset
+   - `segmented.csv`: Final version with Python-generated cluster labels
+
+✅ Uploaded for transparency and reproducibility
+
+---
+
 ## 📂 Files Included
 | File | Description |
 |------|-------------|
