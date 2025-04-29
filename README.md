@@ -72,25 +72,22 @@ Data collected from 3 sources:
 
 ## 🗂️ Dataset
 - **Source**: Publicly available mall customer transaction dataset (~99,266 rows)
-- **Files included**:
-   - `original_dataset.csv`: Raw data used for this project
-   - `pivot_tables.xlsx`: Excel-based feature analysis
-   - `customer_sales_summary.csv`: Cleaned + SQL-transformed dataset
-   - `segmented.csv`: Final version with Python-generated cluster labels
-
-✅ Uploaded for transparency and reproducibility
-
----
+[Customer Shopping Dataset - Retail Sales Data](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)
 
 ## 📂 Files Included
 | File | Description |
 |------|-------------|
+| `customer_shopping_dataset.csv` | Raw data used for this project |
+| `Summary_table.xlsx` | Cleaned & Summary metrics |
+| `Pivot_Tables.xlsx` | Excel-based feature analysis |
 | `customer_sales_summary.csv` | Cleaned & joined dataset |
 | `segmented.csv` | Final dataset with cluster labels |
 | `clustering.py` | Python KMeans clustering script |
+| `tables.sql` | SQL table creation queries |
 | `Retail_Customers.pbix` | Power BI dashboard file |
 | `README.md` | This documentation |
 
+✅ Uploaded for transparency and reproducibility
 ---
 
 ## 📬 Connect
