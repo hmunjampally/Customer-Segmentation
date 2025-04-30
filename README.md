@@ -1,6 +1,6 @@
 # 🛍️ Retail Customer Segmentation Project
 
-This project analyzes mall shopping behavior across 10,000+ customers to identify actionable customer segments using Python (KMeans Clustering) and Power BI.
+This project analyzes mall shopping behavior across 99,000+ customers to identify actionable customer segments using Python (KMeans Clustering) and Power BI.
 
 ## 📌 Objective
 To uncover customer segments based on age and spending behavior to support data-driven marketing and retail strategy.
