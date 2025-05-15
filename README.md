@@ -1,11 +1,15 @@
 # 🛍️ Retail Customer Segmentation Project
 
-This project analyzes mall shopping behavior across ~99,500 customers to identify actionable customer segments using Python (KMeans Clustering) and Power BI.
-
+## 🔍 Problem
+The business lacked clarity around customer segmentation based on spending behavior, leading to inefficient targeting and blanket marketing strategies.
 ## 📌 Objective
 To uncover customer segments based on age and spending behavior to support data-driven marketing and retail strategy.
+## ✅ Solution
+Performed KMeans clustering on a dataset of 99K+ customer records using Python and SQL. Customers were grouped based on age, spending, and frequency. Built an interactive Power BI dashboard with filters and visual segments for strategic analysis.
 
----
+## 💡 Impact
+Enabled data-driven targeting and campaign planning by clearly identifying high-value customer clusters based on spend-age combinations.
+
 
 ## 🧰 Tools & Technologies
 - **Python**: pandas, scikit-learn, matplotlib, seaborn
